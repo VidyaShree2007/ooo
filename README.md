@@ -1,2 +1,1 @@
-# ooo
-ooo
+echo "JSSPW"
